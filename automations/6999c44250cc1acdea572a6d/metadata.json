@@ -1,0 +1,15 @@
+{
+  "automationId": "6999c44250cc1acdea572a6d",
+  "automationName": "Unnamed Automation",
+  "version": "v3",
+  "mode": "multi-file",
+  "dependencies": [
+    {
+      "id": "1771686196067_1",
+      "name": "fs",
+      "version": "latest"
+    }
+  ],
+  "environmentVariables": [],
+  "syncedAt": "2026-02-21T15:21:34.762Z"
+}
